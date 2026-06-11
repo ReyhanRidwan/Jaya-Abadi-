@@ -16,14 +16,14 @@ export const HERO_SLIDES = [
     id: "slide1",
     title: "Solusi Kebocoran Beton & Atap Profesional di Semarang",
     subtitle: "Mengatasi beton retak, rembes, dan kebocoran gedung dengan metode Injeksi Beton & Waterproofing bergaransi.",
-    imageUrl: "/src/assets/images/hero_waterproofing_1781180624241.png",
+    imageUrl: "/images/hero_waterproofing.png",
     badge: "LAYANAN KHUSUS KONSTRUKSI"
   },
   {
     id: "slide2",
     title: "Sistem Penahan Air Injeksi Polyurethane & Beton",
     subtitle: "Menghentikan rembesan air pada basement, kolam renang, dan terowongan dengan injeksi resin reaktif bertekanan tinggi.",
-    imageUrl: "/src/assets/images/hero_injection_1781180638316.png",
+    imageUrl: "/images/hero_injection.png",
     badge: "TEKNOLOGI INJEKSI MODERN"
   }
 ];
@@ -44,7 +44,7 @@ export const SERVICES: ServiceItem[] = [
       "Garansi Kebocoran s.d 5 Tahun"
     ],
     iconName: "Shield",
-    imageUrl: "/src/assets/images/workers_safety_roof_1781180651062.png"
+    imageUrl: "/images/workers_safety_roof.png"
   },
   {
     id: "injection",
@@ -61,7 +61,7 @@ export const SERVICES: ServiceItem[] = [
       "Garansi Hasil Injeksi yang Akurat"
     ],
     iconName: "Cpu",
-    imageUrl: "/src/assets/images/hero_injection_1781180638316.png"
+    imageUrl: "/images/hero_injection.png"
   }
 ];
 
@@ -98,7 +98,7 @@ export const GALLERY_ITEMS: ProjectItem[] = [
     title: "Waterproofing Membran Bakar Gedung Komersial",
     category: "waterproofing",
     tag: "Dak Beton Atap",
-    imageUrl: "/src/assets/images/hero_waterproofing_1781180624241.png",
+    imageUrl: "/images/hero_waterproofing.png",
     location: "Gajahmungkur, Semarang",
     description: "Pemasangan membran bakar aspal ketebalan 3mm dengan pengawasan keselamatan kerja K3 penuh."
   },
@@ -107,7 +107,7 @@ export const GALLERY_ITEMS: ProjectItem[] = [
     title: "Injeksi Retak Beton Basement Hotel",
     category: "injection",
     tag: "Injeksi PU",
-    imageUrl: "/src/assets/images/hero_injection_1781180638316.png",
+    imageUrl: "/images/hero_injection.png",
     location: "Simpang Lima, Semarang",
     description: "Injeksi polyurethane reaktif untuk rembesan air tanah di dinding beton penahan (retaining wall) basement."
   },
@@ -116,7 +116,7 @@ export const GALLERY_ITEMS: ProjectItem[] = [
     title: "Waterproofing Dak Rumah Tinggal Mewah",
     category: "waterproofing",
     tag: "Dak Beton",
-    imageUrl: "/src/assets/images/workers_safety_roof_1781180651062.png",
+    imageUrl: "/images/workers_safety_roof.png",
     location: "Candi Baru, Semarang",
     description: "Aplikasi waterproofing elastomer poliuretan multi-lapisan pada atap beton seluas 350 m²."
   },
@@ -125,7 +125,7 @@ export const GALLERY_ITEMS: ProjectItem[] = [
     title: "Injeksi Kebocoran Ground Water Tank",
     category: "injection",
     tag: "Tangki Air / GWT",
-    imageUrl: "/src/assets/images/hero_injection_1781180638316.png",
+    imageUrl: "/images/hero_injection.png",
     location: "Tembalang, Semarang",
     description: "Menyumbat micro-cracks pada tangki penyimpanan air bawah tanah perumahan agar tidak merembes."
   },
@@ -134,7 +134,7 @@ export const GALLERY_ITEMS: ProjectItem[] = [
     title: "Waterproofing Kamar Mandi Rooftop",
     category: "waterproofing",
     tag: "Kamar Mandi",
-    imageUrl: "/src/assets/images/hero_waterproofing_1781180624241.png",
+    imageUrl: "/images/hero_waterproofing.png",
     location: "Kec. Banyumanik, Semarang",
     description: "Aplikasi semen fleksibel bertulang kasa fiber di lantai semen dan sambungan pipa air."
   }
