@@ -8,6 +8,7 @@ import Testimonials from "./components/Testimonials";
 import LocationMap from "./components/LocationMap";
 import ConsultationForm from "./components/ConsultationForm";
 import Footer from "./components/Footer";
+import AIChatbot from "./components/AIChatbot";
 import { MessageSquare, ShieldAlert } from "lucide-react";
 import { CONTACT_DATA } from "./data";
 
@@ -46,8 +47,11 @@ export default function App() {
       {/* Footer Sektor 6 */}
       <Footer />
 
-      {/* Floating Sticky WhatsApp Consultation Button (Mobile Specific) */}
-      <div className="fixed bottom-6 right-6 z-40" id="floating-wa">
+      {/* AI Chatbot Assistant Abdi */}
+      <AIChatbot />
+
+      {/* Floating Sticky WhatsApp Consultation Button */}
+      <div className="fixed bottom-6 left-6 sm:left-8 z-40" id="floating-wa">
         <a
           href={`https://wa.me/${CONTACT_DATA.phone}?text=Halo%20Jaya%20Abadi,%20saya%20menghubungi%20Anda%20dari%20website%20landing%20page.%20Bisa%20konsultasi%20mengenai%20kebocoran%20beton/atap?`}
           target="_blank"

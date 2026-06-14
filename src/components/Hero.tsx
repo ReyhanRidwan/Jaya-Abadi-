@@ -57,7 +57,7 @@ export default function Hero() {
         </div>
         <div className="bg-white/5 border border-white/10 backdrop-blur-md text-white/95 px-4 py-2 rounded-full text-xs font-semibold flex items-center gap-2 self-end">
           <CheckCircle size={14} className="text-brand-safety-yellow" />
-          <span>Garansi Kebocoran s.d 5 Tahun</span>
+          <span>Garansi Kebocoran 1 s.d 2 Tahun</span>
         </div>
       </div>
 
@@ -109,7 +109,7 @@ export default function Hero() {
                   <div className="w-5 h-5 rounded-full bg-brand-safety-yellow/15 text-brand-safety-yellow flex items-center justify-center shrink-0">
                     ✓
                   </div>
-                  <span>Garansi Resmi 3-5 Thn</span>
+                  <span>Garansi Resmi 1-2 Thn</span>
                 </div>
                 <div className="flex items-center gap-2 text-sm text-slate-200">
                   <div className="w-5 h-5 rounded-full bg-brand-safety-yellow/15 text-brand-safety-yellow flex items-center justify-center shrink-0">

@@ -41,7 +41,7 @@ export const SERVICES: ServiceItem[] = [
       "Kamar Mandi Lantai Atas & Area Basah",
       "Balkon & Rooftop Garden dengan Proteksi Akar",
       "Standar Safety APD Lengkap (Harness & Lifeline)",
-      "Garansi Kebocoran s.d 5 Tahun"
+      "Garansi Kebocoran 1 s.d 2 Tahun"
     ],
     iconName: "Shield",
     imageUrl: "/images/workers_safety_roof.png"
@@ -137,13 +137,49 @@ export const GALLERY_ITEMS: ProjectItem[] = [
     imageUrl: "/images/hero_waterproofing.png",
     location: "Kec. Banyumanik, Semarang",
     description: "Aplikasi semen fleksibel bertulang kasa fiber di lantai semen dan sambungan pipa air."
+  },
+  {
+    id: "p6",
+    title: "Waterproofing Dinding Dingin & Dak Luar Gedung",
+    category: "waterproofing",
+    tag: "Dak Beton Atap",
+    imageUrl: "https://res.cloudinary.com/di6ziqvtp/image/upload/q_auto/f_auto/v1781428651/waterprofing1_fxi3eb.jpg",
+    location: "Semarang Barat, Semarang",
+    description: "Pelapisan waterproofing khusus dinding & dak samping luar gedung bertingkat menggunakan bamboo scaffolding dengan jaminan anti-bocor prima."
+  },
+  {
+    id: "p7",
+    title: "Waterproofing Lapisan IPAL / Ground Tank Industri",
+    category: "waterproofing",
+    tag: "Dak Beton Atap",
+    imageUrl: "https://res.cloudinary.com/di6ziqvtp/image/upload/q_auto/f_auto/v1781428665/waterprofing2_sou6q7.jpg",
+    location: "Kawasan Industri Wijayakusuma, Semarang",
+    description: "Sistem pelapisan waterproofing aspal emulsi tebal pada bak beton penampungan air limbah industri untuk mencegah rembesan kimiawi keluar."
+  },
+  {
+    id: "p8",
+    title: "Waterproofing Plafon & Balkon Apartemen",
+    category: "waterproofing",
+    tag: "Dak Beton Atap",
+    imageUrl: "https://res.cloudinary.com/di6ziqvtp/image/upload/q_auto/f_auto/v1781428668/waterprofing3_qxsn4e.jpg",
+    location: "Candi Baru, Semarang",
+    description: "Perbaikan keretakan struktur beton balkon luar dan pelapisan elastomer polyurethane anti-UV tebal di ketinggian gedung apartemen."
+  },
+  {
+    id: "p9",
+    title: "Injeksi PU Ground Water Tank Tekanan Tinggi",
+    category: "injection",
+    tag: "Injeksi GWT",
+    imageUrl: "https://res.cloudinary.com/di6ziqvtp/image/upload/q_auto/f_auto/v1781428674/waterprofing4_uolfqv.jpg",
+    location: "Tugurejo, Semarang",
+    description: "Pekerjaan menghentikan celah air aktif pada tangki bawah tanah struktur beton tebal GWT dengan suntikan resin reaktif Polyurethane didorong kompresor bertenaga."
   }
 ];
 
 export const FAQ_ITEMS = [
   {
     question: "Berapa lama garansi yang diberikan Jaya Abadi?",
-    answer: "Kami memberikan garansi tertulis mulai dari 2 hingga 5 tahun tergantung dari jenis metode waterproofing yang dipilih dan kondisi awal struktur beton Anda."
+    answer: "Kami memberikan garansi tertulis mulai dari 1 hingga 2 tahun tergantung dari jenis metode waterproofing yang dipilih dan kondisi awal struktur beton Anda."
   },
   {
     question: "Apakah survei lokasi di wilayah Semarang benar-benar gratis?",

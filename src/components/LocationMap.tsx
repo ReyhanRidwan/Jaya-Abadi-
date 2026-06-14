@@ -145,7 +145,7 @@ export default function LocationMap() {
           </div>
           <div className="text-center space-y-1">
             <div className="font-display font-black text-3xl sm:text-4xl text-brand-blue-light" id="stat-3">
-              5 Tahun
+              2 Tahun
             </div>
             <div className="text-xs sm:text-sm font-bold text-slate-800">Garansi Maksimal</div>
             <div className="text-[10px] text-slate-500 font-light">Jaminan sertifikat resmi tertulis</div>
